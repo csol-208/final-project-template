@@ -1,0 +1,3 @@
+# Packages your project uses, one per line.
+ipykernel
+pandas
